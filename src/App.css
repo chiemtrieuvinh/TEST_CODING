@@ -34,3 +34,27 @@
   padding-left: 600px;
   padding-right: 600px;
 }
+.input-group.md-form.form-sm.form-2.pl-0 {
+  margin-left: 400px;
+  width: 700px;
+}
+img {
+  width:200px;
+}
+h2 {
+  margin-left: -1090px;
+}
+h5 {
+  margin-left: -1210px;
+}
+img.rounded-circle {
+  width: 80px;
+  height: 70px;
+  margin-left: -520px;
+}
+.col.author {
+  margin-left: -1700px;
+}
+.col.combine {
+  margin-left: -400px;
+}
